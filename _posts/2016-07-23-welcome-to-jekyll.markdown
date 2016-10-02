@@ -1,24 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Leone"
 date:   2016-07-19 11:49:45 +0200
-categories: jekyll update
+categories: mammiferi
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Il leone (Panthera leo Linnaeus, 1758) è un mammifero carnivoro della famiglia dei felidi. Dopo la tigre, è il più grande dei cinque grandi felidi del genere Panthera, con alcuni maschi la cui massa corporea supera i 250 kg.[2] Il suo areale è nel 2011 ridotto quasi esclusivamente all'Africa subsahariana; il continuo impoverimento del suo habitat naturale e il protrarsi della caccia di frodo ai suoi danni ne fanno una specie vulnerabile secondo la IUCN.[1] Questa definizione è giustificata da un declino stimato tra il 30 e il 50% nella zona africana nei vent'anni precedenti.[1]
 
-Jekyll also offers powerful support for code snippets:
+Una popolazione di dimensioni assai ridotte sopravvive nel Gir Forest National Park in India, mentre gli esemplari che abitavano il Nordafrica e il Medio Oriente sono scomparsi da molti secoli. Sino al Pleistocene, circa diecimila anni fa, il leone era il secondo grande mammifero più diffuso dopo l'uomo. A quei tempi si trovavano leoni in gran parte dell'Eurasia e dell'Africa, e addirittura in America del Nord (sotto la forma di Panthera leo atrox), dallo Yukon al Perù.[3]
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In virtù delle dimensioni e delle abitudini, questo felino non può essere allevato al di fuori di aree protette e parchi naturali o zoologici. Celebre l'esempio della leonessa Elsa, restituita all'habitat naturale dopo aver vissuto per alcuni anni con i coniugi Adamson. Anche se le cause del declino dei leoni non sono certe, il degrado dell'habitat e i conflitti con l'uomo ne sembrano le cause predominanti. In natura un leone sopravvive da dieci a quindici anni, mentre in cattività può arrivare a venti. I maschi in particolare, non superano spesso i dieci anni d'età in natura, in seguito agli infortuni derivanti dalle lotte con i rivali per il dominio sul branco.[4]
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Tipicamente, i leoni abitano la savana e le praterie, ma possono adattarsi ad aree cespugliose e foreste. In confronto ad altri felini, i leoni sono animali con uno spiccato spirito di socialità. Un branco è formato generalmente da un maschio alfa (o più raramente 2, se fratelli), un gruppo di femmine, imparentate tra loro, con cui, questo (o questi) si accoppia, e la loro prole. I cuccioli maschi restano all'interno del branco fino alla loro maturazione sessuale, quando vengono scacciati da parte del maschio alfa (il loro padre). I giovani maschi adulti, una volta allontanati dal vecchio branco, possono per qualche tempo restare insieme, formando un piccolo branco di soli maschi (fratelli), finché non decidano di separarsi per formare delle loro famiglie, in genere scacciando un altro maschio da un branco rivale. Le femmine tipicamente cacciano insieme, principalmente ungulati. È un cosiddetto predatore alfa, ovvero si colloca all'apice della catena alimentare, non avendo predatori in natura, a parte l'uomo (ed eccezionalmente il coccodrillo del Nilo), ma ciononostante, può compiere sciacallaggio in caso di estremo bisogno. I leoni non cacciano l'uomo con regolarità, ma alcuni esemplari particolari lo hanno fatto.
+
+Assai facile da distinguere, il maschio di leone ha una criniera caratteristica, e la sua immagine è uno dei simboli più sfruttati nella storia dell'umanità. Le prime rappresentazioni furono fatte nel Paleolitico superiore, e troviamo leoni scolpiti o dipinti nelle Grotte di Lascaux e nella Grotta Chauvet. Essi appaiono nella cultura di praticamente ogni civiltà antica che vi abbia avuto a che fare. Li troviamo inoltre in un enorme quantità di sculture, dipinti, bandiere nazionali e regionali, film e libri contemporanei. Furono tenuti in menagerie fin dai tempi dell'Impero romano e sono stati la chiave delle esibizioni degli zoo di tutto il mondo a partire dal XVIII secolo. Diversi zoo mondiali stanno collaborando per salvare la sottospecie asiatica.
+
+
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
