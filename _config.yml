@@ -1,15 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I miei animali
+title: I nostri animali
 email: your-email@domain.com
-description:  Questa è la mia raccolta di animali! Qui ho raccolto le informazioni principali degli animali che mi
-              incuriosiscono di più.
+description:  Questa è la nostra raccolta di animali! In questo sito metteremo le
+  informazioni principali degli animali che ci
+              incuriosiscono di più, in un linguaggio adatto a noi bambini.
 baseurl: "/animals" # the subpath of your site, e.g. /blog
 url: "http://ddmng.github.io/animals" # the base hostname & protocol for your site
 twitter_username: no
