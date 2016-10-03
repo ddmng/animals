@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Il nostro progetto
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Siamo un gruppo di bambini con la passione degli animali. Ci piacerebbe fare un sito in cui tutti i bambini possano trovare le informazioni sugli animali, scritte da altri bambini.

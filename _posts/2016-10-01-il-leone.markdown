@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Leone"
-date:   2016-07-19 11:49:45 +0200
-categories: mammiferi
+title:  "Il leone"
+categories: Mammiferi
+date: 2016-10-01
+author: DDM
 ---
 
 Il leone (Panthera leo Linnaeus, 1758) è un mammifero carnivoro della famiglia dei felidi. Dopo la tigre, è il più grande dei cinque grandi felidi del genere Panthera, con alcuni maschi la cui massa corporea supera i 250 kg.[2] Il suo areale è nel 2011 ridotto quasi esclusivamente all'Africa subsahariana; il continuo impoverimento del suo habitat naturale e il protrarsi della caccia di frodo ai suoi danni ne fanno una specie vulnerabile secondo la IUCN.[1] Questa definizione è giustificata da un declino stimato tra il 30 e il 50% nella zona africana nei vent'anni precedenti.[1]
