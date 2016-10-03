@@ -19,4 +19,4 @@ Va a caccia di piccole prede come conigli o
 roditori ma si ciba anche di carogne. Di giorno
 si rifugia nelle grotte.
 
-![la lince]({{ site.url }}/assets/LinceEuropea.jpg)
+![la lince]({{ site.url }}/assets/LinceEuropea.jpg class:'blog-preview-image')
