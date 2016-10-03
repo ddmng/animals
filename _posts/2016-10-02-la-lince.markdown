@@ -1,9 +1,21 @@
 ---
 layout: post
 title:  "La lince"
-categories: Mammiferi
-date: 2016-10-02
-author: DDM
+categories: Mammiferi, Felini
+date: 2016-10-03
+author: Samuele
 ---
+La lince è un animale simile al gatto. È uno dei
+felini più diffusi in Europa. Si riconosce per
+i ciuffi neri sulle orecchie e dal mantello
+striato, uniforme o a macchie.
 
-Mettere qui la lince
+Vive nella Francia, nei Balcani, in Iraq e dalla
+Scandinava alla Cina.
+
+Arriva anche a 40kg di peso!
+
+Va a caccia di piccole prede come conigli o
+roditori ma si ciba anche di carogne. Di giorno
+si rifugia nelle grotte.
+
