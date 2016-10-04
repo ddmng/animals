@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Il puma"
+categories: Mammiferi, Felini
+date: 2016-10-04
+author: Samuele
+---
+Il puma si pu&ograve; chiamare in modi diversi: coguaro, leone di montagna.
+
+&Egrave; un piccolo leone che pu&ograve; arrivare anche a 120kg di peso e 2 metri di lunghezza (i maschi)!
+&Egrave; il pi&ugrave; dei piccoli felini.
+Caccia cervi, alci e carib&ugrave;. Emette fischi, sibili, grugniti e fa le fusa, ma non &egrave; capace di ruggire.
+
+Fa balzi di 3 metri per saltare da una roccia all'altra e per prendere le prede.
+Il maschio &egrave; di color arancione scuro ma la femmina ha un colore pi&ugrave; dorato. I piccoli sono grandi quanto un gatto adulto e sono di colore pi&ugrave; chiaro. 
+
+Vivono nelle zone remote del Nord America occidentale e nell'America Meridionale.
+
+![Il puma]({{ site.url }}/assets/puma/1.jpg )
