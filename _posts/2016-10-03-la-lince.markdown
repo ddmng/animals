@@ -19,5 +19,6 @@ Va a caccia di piccole prede come conigli o
 roditori ma si ciba anche di carogne. Di giorno
 si rifugia nelle grotte.
 
+Non &egrave; a rischio di estinzione, tranne alcune specie pi&ugrave; a rischio.
 
 ![La lince europea]({{ site.url }}/assets/lince/1.jpg )

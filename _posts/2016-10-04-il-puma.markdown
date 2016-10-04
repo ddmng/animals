@@ -12,8 +12,10 @@ Il puma si pu&ograve; chiamare in modi diversi: coguaro, leone di montagna.
 Caccia cervi, alci e carib&ugrave;. Emette fischi, sibili, grugniti e fa le fusa, ma non &egrave; capace di ruggire.
 
 Fa balzi di 3 metri per saltare da una roccia all'altra e per prendere le prede.
-Il maschio &egrave; di color arancione scuro ma la femmina ha un colore pi&ugrave; dorato. I piccoli sono grandi quanto un gatto adulto e sono di colore pi&ugrave; chiaro. 
+Il maschio &egrave; di color arancione scuro ma la femmina ha un colore pi&ugrave; dorato. I piccoli sono grandi quanto un gatto adulto e sono di colore pi&ugrave; chiaro. I piccoli non hanno baffi ma la femmina adulta e il maschio adulto li hanno, ma corti.
 
-Vivono nelle zone remote del Nord America occidentale e nell'America Meridionale.
+Vive nelle zone remote del Nord America occidentale e nell'America Meridionale.
+
+&Egrave; a rischio di estinzione.
 
 ![Il puma]({{ site.url }}/assets/puma/1.jpg )
