@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "La tigre"
+categories: Mammiferi, Felini
+date: 2016-10-09
+author: Samuele
+---
+
+La tigre è un grande mammifero. &Egrave; la più grande tra i felidi, arriva a 360 kg!
+&Egrave; lunga 3,6 m con una coda di un metro. &Egrave; una specie solitaria, ma in pericolo.
+Esistono due tipi di tigri: la tigre del Bengala e la tigre siberiana o tigre dell'Amur.
+
+Vive dall'India alla Siberia orientale. Mangia topi, pesci, scimmie, cervi, caribù, rane, rospi,
+uccelli, però per lei è difficile cacciare serpenti e uomini.
+
+La tigre siberiana ha un pelo più chiaro sul ventre, sulle zampe anteriori, la coda e la faccia,
+invece la tigre del Bengala solo un pezzo sul ventre e sulla faccia.
+La tigre dell'Amur, in inverno ha il pelo più chiaro.
+
+![La tigre]({{ site.url }}/assets/tigre/1.jpg )
