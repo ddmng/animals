@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Il leone"
+categories: Mammiferi, Felini
+date: 2016-10-31
+author: Samuele
+---
+
+Il leone è un felide grande e grosso, però è un po' scansafatiche perché resta per quasi tutto il giorno sotto gli
+alberi.
+
+Pesa 225kg, ed è lungo 2,30m ma con la coda di un metro è lungo in tutto 3,30m!
+Ha dei grandi canini per lacerare i pezzi di carne e una lingua ruvida coperta di protuberanze che servono per ripulire
+le ossa delle prede e per la pulizia del pelo. Si nutre di solito di: gazzelle, gnu, antilopi, ratti e uccelli; mangia anche iene e ghepardi.
+
+Vive nell'Africa sub-sahariana e in India ed è quasi a rischio di estinzione.
+
+
+![Il leone]({{ site.url }}/assets/leone/1.jpg )
