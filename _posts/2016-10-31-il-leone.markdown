@@ -4,6 +4,7 @@ title:  "Il leone"
 categories: Mammiferi, Felini
 date: 2016-10-31
 author: Samuele
+comments: true
 ---
 
 Il leone è un felide grande e grosso, però è un po' scansafatiche perché resta per quasi tutto il giorno sotto gli

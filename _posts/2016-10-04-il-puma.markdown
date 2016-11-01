@@ -4,6 +4,7 @@ title:  "Il puma"
 categories: Mammiferi, Felini
 date: 2016-10-04
 author: Samuele
+comments: true
 ---
 Il puma si pu&ograve; chiamare in modi diversi: coguaro, leone di montagna.
 

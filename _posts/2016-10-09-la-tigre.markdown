@@ -4,6 +4,7 @@ title:  "La tigre"
 categories: Mammiferi, Felini
 date: 2016-10-09
 author: Samuele
+comments: true
 ---
 
 La tigre è un grande mammifero. &Egrave; la più grande tra i felidi, arriva a 360 kg!

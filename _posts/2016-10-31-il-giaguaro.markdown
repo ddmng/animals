@@ -4,6 +4,7 @@ title:  "Il giaguaro"
 categories: Mammiferi, Felini
 date: 2016-10-31
 author: Samuele
+comments: true
 ---
 
 Simile al leopardo, questo qui è più grande. &Egrave; un felide cacciatore, fa balzi

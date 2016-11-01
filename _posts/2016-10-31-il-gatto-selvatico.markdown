@@ -4,6 +4,7 @@ title:  "Il gatto selvatico"
 categories: Mammiferi, Felini
 date: 2016-10-31
 author: Samuele
+comments: true
 ---
 
 Il gatto selvatico è un felide veloce e piccolo. &Egrave; lungo 75cm ma con la coda di 35cm
