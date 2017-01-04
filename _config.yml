@@ -1,12 +1,12 @@
 
 # Site settings
 title: I nostri animali
-email: info@animali.it
+email: info@inostrianimali.it
 description:  Questa è la nostra raccolta di animali! In questo sito metteremo le
   informazioni principali degli animali che ci
               incuriosiscono di più, in un linguaggio adatto a noi bambini.
-baseurl: "/animals" # the subpath of your site, e.g. /blog
-url: "http://ddmng.github.io/animals" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://inostrianimali.it" # the base hostname & protocol for your site
 twitter_username: no
 github_username:  ddmng
 
