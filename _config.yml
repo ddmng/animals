@@ -6,7 +6,7 @@ description:  Questa è la nostra raccolta di animali! In questo sito metteremo 
   informazioni principali degli animali che ci
               incuriosiscono di più, in un linguaggio adatto a noi bambini.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://inostrianimali.it" # the base hostname & protocol for your site
+url: "http://www.inostrianimali.it" # the base hostname & protocol for your site
 twitter_username: no
 github_username:  ddmng
 
