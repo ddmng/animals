@@ -3,7 +3,7 @@ layout: post
 title:  "Il gatto marmorizzato"
 categories: Mammiferi, Felini
 date: 2017-01-04
-author: Samuele
+author: Macchia
 comments: true
 ---
 Questo felide sembra un leopardo nebuloso in versione ridotta e si nutre prevalentemente di uccelli.

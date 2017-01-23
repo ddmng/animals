@@ -3,7 +3,7 @@ layout: post
 title:  "Il ghepardo"
 categories: Mammiferi, Felini
 date: 2016-10-04
-author: Samuele
+author: Macchia
 comments: true
 ---
 Il ghepardo &egrave; un felino di media grandezza; ce ne sono 2 specie: il primo si chiama "ghepardo rex", il secondo normalmente "ghepardo", ma il nome scientifico non cambia.

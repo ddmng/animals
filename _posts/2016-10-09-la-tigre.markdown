@@ -3,7 +3,7 @@ layout: post
 title:  "La tigre"
 categories: Mammiferi, Felini
 date: 2016-10-09
-author: Samuele
+author: Macchia
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "La lince"
 categories: Mammiferi, Felini
 date: 2016-10-03
-author: Samuele
+author: Macchia
 comments: true
 ---
 La lince è un animale simile al gatto. È uno dei

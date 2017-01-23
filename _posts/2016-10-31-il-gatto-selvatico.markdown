@@ -3,7 +3,7 @@ layout: post
 title:  "Il gatto selvatico"
 categories: Mammiferi, Felini
 date: 2016-10-31
-author: Samuele
+author: MAcchia
 comments: true
 ---
 

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "L'ocelot"
+categories: Mammiferi, Felini
+date: 2016-01-23
+author: Macchia
+comments: true
+---
+È un cacciatore opportunista, pesa fino a 12 kg, è una specie solitaria e localmente comune.
+Vive dal Texas sud-orientale(U.S.A.) all’Argentina settentrionale. Vive anche nella foresta monsonica
+Tropicale e nei deserti e semideserti.
+Il suo mantello maculato e striato che si mimetizza con la vegetazione e cattura diverse prede.
+
+![L'ocelot]({{ site.url }}/assets/ocelot/1.jpg )
