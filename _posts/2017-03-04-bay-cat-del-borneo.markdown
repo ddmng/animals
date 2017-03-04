@@ -12,6 +12,7 @@ Principalmente si trova nelle giungle e nelle foreste.
 Ha una dieta carnivora a base di: insetti, anfibi e rettili.
 Pesa fino a 4 kg, ha un corpo di 69 cm e la coda di 37 cm.
 È una specie solitaria ma in pericolo!
-Gli operatori del WWFstanno facendo di tutto per salvarlo.
+Gli operatori del WWF stanno facendo di tutto per salvarlo.
+
 
 ![Bay cat del Borneo]({{ site.url }}/assets/baycat/1.jpg )
