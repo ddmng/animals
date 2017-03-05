@@ -13,4 +13,4 @@ Vive nelle foreste pluviali tropicali e nelle foreste monsoniche tropicali in:Ne
 È una specie solitaria ma vulnerabile.
 Ha un mantello rossiccio, dorato o bruno-grigiastro.
 
-[Gatto dorato asiatico]({{ site.url }}/assets/gattodorato/1.jpg )
+![Gatto dorato asiatico]({{ site.url }}/assets/gattodorato/1.jpg )
