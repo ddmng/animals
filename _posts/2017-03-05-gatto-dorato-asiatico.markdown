@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Gatto dorato asiatico"
@@ -6,6 +5,7 @@ categories: Mammiferi, Felini
 date: 2017-03-05
 author: Macchia
 comments: true
+---
 
 È un grande felino che arriva ai 15 kg e ai 161 cm di lunghezza.
 Le sue prede comuni sono piccoli mammiferi ed uccelli, ma, in coppia,riesce ad uccidere addirittura i piccoli di bufalo e molte altre prede di quella taglia.
