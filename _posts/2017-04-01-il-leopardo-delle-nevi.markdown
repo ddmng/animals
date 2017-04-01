@@ -15,4 +15,4 @@ Il loro numero è calato del 20%.
 I leopardi delle nevi hanno una coda molto lunga che gli permettono di non sbilanciarsi mentre corrono.
 
 
-![Il leopardo delle nevi]({{ site.url }}/assets/leopardellenevi/1.jpg )
+![Il leopardo delle nevi]({{ site.url }}/assets/leoparodellenevi/1.jpg )
