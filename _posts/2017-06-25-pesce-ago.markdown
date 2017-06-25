@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Animale del giorno: il pesce ago"
+categories: Pesci-Osteitti-Acantopterigi, Signatiformi
+date: 2017-06-25
+author: Macchia
+comments: true
+---
+Questo pesce si trova nella classe degli Acantopterigi o Signatiformi.
+Vive nelle alghe e il suo habitat è nei fondi sabbiosi o pietrosi attorno i 20 metri di profondità dell' Atlantico Orientale, Mediterraneo, coste del Sud Africa.
+Può essere di vari colori : bianco, nero, marroncino e, addirittura di tutti i colori come il PESCE AGO FANTASMA ARLECCHINO.
+Tutte le specie di pesce ago si cibano di microrganismi marini.
+Pesano fino a 30-40 g e arrivano fino a 45 cm.
+Il pesce ago è una specie ovipara con sessi separati;h ha due pinne caudali e piccole ma il Pesce Ago Fantasma Arlecchino grandi  e a forma di straccio, i Pesci Ago e i Cavallucci Marini hanno una serie di piastre ossee sotto la pelle.
+i Pesci Ago hanno una struttura esile e possiedono una piccolissima bocca e una specie di piccola gobba sul dorso.
+Gli occhi sono grandi e rotondi  per una testa piccola.
+Come i suoi cugini Cavallucci Marini schiude fino a 400, piccolissime uova in un marsupio che serve da incubatrice, da lì i piccoli nascono già formati  
+
+
+![Il pesce ago]({{ site.url }}/assets/pesceago/1.jpg )
