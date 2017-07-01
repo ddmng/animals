@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Il dingo"
+categories:Mammiferi-Canidi
+date: 2017-07-01
+author: Macchia
+comments: true
+---
+È canide di media grandezza che ricorda molto l'aspetto del cane.
+Trasferiti in Australia dai vecchi venditori asiatici, sono i più grandi predatori del continente; si cibano di piccoli Mammiferi, uccelli, rettili, insetti, vegetali e frutti ma anche canguri e wallaby.
+I piccoli misurano dai 70 ai 110 cm e gli adulti 136 cm.
+Pesa 24 kg ed è localmente comune.
+È solitario oppure vive in piccoli gruppi.
+Vive nelle foreste monsoniche tropicali, foreste temperate, habitat aperti (savana, prateria, pianura, pampa e steppa)delle varie zone del continente oceanico.
+Si nota per il suo mantello marroncino e il suo ventre con il pelo bianco.
+È un animale socievole e solo in certi casi ringhia e ha paura dell'uomo.
+
+
+
+![Il dingo]({{ site.url }}/assets/dingo/1.jpg )

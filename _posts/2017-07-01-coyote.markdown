@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Il coyote"
+categories: Mammiferi-Canidi
+date: 2017-07-01
+author: Macchia
+comments: true
+---
+Sembra un incrocio tra un lupo e una volpe.
+Molti sono solitari altri vivono e cacciano in grandi branchi.
+È più piccolo del lupo ma è agile e svelto; misura dai 70 ai 95 cm.
+Si nota per le zampe anteriori rosse con un muso rosso granata, snello ed appuntito ma anche per la coda increspata e affosciata con la punta nera.
+I suoi habitat sono le foreste temperate, regioni polari, spazi aperti e montagne dell'America centrale e del Nord America.
+Si ciba di altri animali.
+Come gli altri canidi usa sostanze odorose, espressioni e posture del corpo e della coda, oltre una serie di richiami per comunicare.Il suo inconfondibile ululato serve per allontanare gli altri coyote dalla sua tana e dalla sua famiglia.
+I piccoli imparano ad ululare dalla loro madre.
+Non è in pericolo.
+
+
+
+![Il coyote]({{ site.url }}/assets/coyote/1.jpg )

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Il lupo"
+categories:
+date: 2017-07-01
+author: Macchia
+comments: true
+---
+
+
+
+
+![Il lupo]({{ site.url }}/assets/lupo/1.jpg )
