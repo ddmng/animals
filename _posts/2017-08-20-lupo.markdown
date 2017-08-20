@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Il lupo"
+categories: Mammiferi-Canidi
+date: 2017-08-20
+author: Macchia
+comments: true
+---
+
+Era il predatore più diffuso in tutto l'Emisfero Boreale: dal circolo polare all'Asia minore, non c'era posto in cui il lupo non avesse colonizzato.
+Esistono due tipi di lupo: il Lupo Rosso E IL Lupo Grigio (diffuso in Alaska e Scandinavia).
+Ora vive nell'Emisfero Boreale (Dalla Tundra Alla Taiga, dagli Ambienti Alpini alle pianure boscose).
+
+Si ciba di piccoli e grandi mammiferi e può arrivare fino a 9 kg di peso. È lungo da 1,2m a 1,7m.
+Può fare da 1 a 10 cuccioli; la madre rimane nella tana con loro fino a che non sapranno procurarsi il cibo e a badare a se stessi.
+
+È un pericolo per le greggi, solo in certi casi può essere aggressivo nei confronti dell'uomo.
+Vive in coppie ma è in grave pericolo.
+
+![Il lupo]({{ site.url }}/assets/lupo/1.jpg )
