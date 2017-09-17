@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Animale del giorno: l'anemone di mare"
+title:  "L'anemone di mare"
 categories: Invertebrati, cnidari o celenterati
 date: 2017-05-07
 author: Macchia
 comments: true
+tags: "Animale del giorno"
 ---
 Gli anemoni di mare, proprio come l'omonimo fiore di terra da cui prende il nome, è un vero tripudio di colore.
 Appartiene alla famiglia degli invertebrati e fa parte della philum  Cnidaria o Celenterata .

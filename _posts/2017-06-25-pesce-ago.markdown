@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Animale del giorno: il pesce ago"
+title:  "Il pesce ago"
 categories: Pesci-Osteitti-Acantopterigi, Signatiformi
 date: 2017-06-25
 author: Macchia
 comments: true
+tags: "Animale del giorno"
 ---
 Questo pesce si trova nella classe degli Acantopterigi o Signatiformi.
 Vive nelle alghe e il suo habitat è nei fondi sabbiosi o pietrosi attorno i 20

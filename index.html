@@ -8,6 +8,7 @@ layout: default
     <p class="description">{{ site.description }}</p>
     <a href="about" class="btn">Il nostro progetto</a>
   </div>
+
   <div class="posts card">
       <div class="card-content white-text">
       <span class="card-title">Tutti gli animali</span>
@@ -16,7 +17,11 @@ layout: default
         {% for post in site.posts %}
           <li>
             <span class="post-meta">{{ post.date | date: "%-d/%-m/%Y" }}</span>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>            
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}
+              {% for tag in post.tags %}
+                <span class="speciale">{{ tag }}</span>
+              {% endfor %}
+            </a>
           </li>
         {% endfor %}
       </ul>
