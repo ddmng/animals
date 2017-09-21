@@ -12,3 +12,5 @@ github_username:  ddmng
 
 # Build settings
 markdown: kramdown
+plugins: [jekyll-paginate]
+paginate: 10

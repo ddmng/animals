@@ -13,8 +13,33 @@ layout: default
       <div class="card-content white-text">
       <span class="card-title">Tutti gli animali</span>
 
+      <div class="searchbox" id="search-container">
+        <input type="text" id="search-input" placeholder="Cerca..." maxlength="15">
+        <ul id="results-container"></ul>
+      </div>
+
+      <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+      <script type="text/javascript">
+        window.simpleJekyllSearch = new SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '{{ site.baseurl }}/search.json',
+          searchResultTemplate: '<div class="post-content" itemprop="articleBody">\
+                                  <a href="{url}" class="search-result" title="{desc}"> \
+                                  <h5 itemprop="headline">{title}<\/h5> \
+                                  <\/a> \
+                                  <p itemprop="description">{desc}<\/p> \
+                                  <\/div>',
+          noResultsText: 'Nessun risultato trovato',
+          limit: 10,
+          fuzzy: false,
+          exclude: ['Welcome']
+        })
+      </script>
+
       <ul class="post-list">
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
           <li>
             <span class="post-meta">{{ post.date | date: "%-d/%-m/%Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}
@@ -25,6 +50,21 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+
+      <!-- Pagination links -->
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous"> Indietro </a>
+        {% else %}
+          <span class="previous"></span>
+        {% endif %}
+        <span class="page_number ">Pagina {{ paginator.page }} di {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next"> Avanti </a>
+        {% else %}
+          <span class="next "></span>
+        {% endif %}
+      </div>
 
       <p class="rss-subscribe">seguici <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
       </div>
