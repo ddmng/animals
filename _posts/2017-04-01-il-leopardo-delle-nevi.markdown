@@ -15,4 +15,12 @@ Il loro numero è calato del 20%.
 I leopardi delle nevi hanno una coda molto lunga che gli permettono di non sbilanciarsi mentre corrono.
 
 
+{:.riepilogo }
+Riepilogo
+
+{:.tabella }
+| Conservazione | Vulnerabile |
+| Luogo         | Asia centrale |
+
+
 ![Il leopardo delle nevi]({{ site.url }}/assets/leopardodellenevi/1.jpg )
