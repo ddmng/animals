@@ -10,7 +10,7 @@ Questo felide sembra un leopardo nebuloso in versione ridotta e si nutre prevale
 di uccelli.
 Deve il suo nome alla distribuzione delle sue macchie sul mantello che danno al
 pelo un effetto "di marmo".
-
+È arboricolo: si nasconde fra le fronde degli alberi.
 È una specie solitaria e vulnerabile; vive nel nord del Nepal, in India nord-orientale,
 in Asia sud-orientale. Pesa fino a 5kg, il corpo è lungo fino a 53cm ma la coda
 fino a 55, quindi è lungo in tutto 108cm. È un felino difficile da studiare ma anche da osservare.
