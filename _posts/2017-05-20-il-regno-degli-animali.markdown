@@ -7,8 +7,7 @@ author: Macchia
 comments: true
 ---
 
-# Il regno degli animali
-Gli animali sono uno dei cinque regni in cui i bioligi suddividono generalmente gli organismi viventi. Il regno degli animali è il più ampio e diversificato e comprende oltre un milione di specie su un totale di 1,75 milioni di esseri viventi.
+Quello degli animali è uno dei cinque regni in cui i biologi suddividono generalmente gli organismi viventi. Il regno degli animali è il più ampio e diversificato e comprende oltre un milione di specie su un totale di 1,75 milioni di esseri viventi.
 
 Regno animale
 * Vertebrati

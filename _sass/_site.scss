@@ -34,7 +34,6 @@
         transition: $anim-speed; 
         @extend .z-depth-1;
         
-        
         img{
             object-fit: none; /* Do not scale the image */
             object-position: center; /* Center the image within the element */
@@ -61,7 +60,7 @@
 .page-content{ 
     margin: $spacing-unit auto;   
     width: 980px;    
-    
+
     .top{
         
         text-align: center;
