@@ -10,10 +10,11 @@ tags: ""
 ---
 Il licaone è esclusivamente carnivoro.
 Dopo aver ucciso la preda, gli adulti rigurgitano il cibo per i compagni del branco giovani, malati e feriti.
-Èlungo 130cm (compresa la coda) e pesa 36kg.
-vive in solitaria oppure in piccoli gruppi.
-si trova nelle foreste monsoniche tropicali, habitat sprti (savana, prateria, pianura, pampa e steppa) e nei deserti e semideserti dell?Africa orientale e maeridoniale.
-È in pericolo.
+È lungo 130cm (compresa la coda) e pesa 36kg. 
+
+Vive in solitaria oppure in piccoli gruppi.
+Si trova nelle foreste monsoniche tropicali, habitat sprti (savana, prateria, pianura, pampa e steppa) e nei deserti e semideserti dell'Africa orientale e maeridoniale.
+È in pericolo di estinzione. 
 
 
 Riepilogo
