@@ -5,7 +5,7 @@ categories: Mammiferi, ursidi
 date: 2020-01-04
 author: Macchia
 comments: true
-tags: 
+tags: Nuovo 2020!
 ---
 
 Un tempo era diffuso in tutta l'America, in Eurasia, nel Nord Africa e nel Messico.
