@@ -32,4 +32,4 @@ Riepilogo
 | Luogo         | Habitat aperti, deserti e semideserti degli Stati Uniti sud-occidentali e Messico settentrionale |
 
 
-![La volpe pigmea americana]({{ site.url }}/assets/volpeartica/1.jpg)
+![La volpe pigmea americana]({{ site.url }}/assets/volpepigmeaamericana/1.jpg)

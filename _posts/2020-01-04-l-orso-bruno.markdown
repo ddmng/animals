@@ -33,4 +33,4 @@ Riepilogo
 | Luogo         | Foreste temperate, foreste di conifere, zone di palude, habitat aperti, tundra e rilievi del Nordamerica, Europa Occ., Africa sett., Himalaya e Giappone |
 
 
-![L'orso bruno]({{ site.url }}/assets/orso bruno/1.png)
+![L'orso bruno]({{ site.url }}/assets/orsobruno/1.png)
