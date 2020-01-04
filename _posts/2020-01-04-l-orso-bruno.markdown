@@ -2,10 +2,11 @@
 layout: post
 title:  "L'orso bruno"
 categories: Mammiferi, ursidi
-date: 2020-01-4
+date: 2020-01-04
 author: Macchia
 comments: true
 tags: 
+---
 
 Un tempo era diffuso in tutta l'America, in Eurasia, nel Nord Africa e nel Messico.
 L'orso bruno ha diverse sottospecie: 
