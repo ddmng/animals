@@ -33,4 +33,4 @@ Riepilogo
 | Luogo         | Foreste temperate, foreste di conifere, zone di palude, habitat aperti (savana, pianura, prateria, pampa e steppa), deserti e semideserti e aree urbane del Nordamerica, Europa, Asia sett. e centrale, Africa sett., Arabia e in Australia (introdotta) |
 
 
-![La volpe rossa]({{ site.url }}/assets/volpe rossa/1.jpg
+![La volpe rossa]({{ site.url }}/assets/volpe rossa/1.jpg)
