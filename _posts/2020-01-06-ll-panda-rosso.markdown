@@ -29,7 +29,7 @@ Riepilogo
 
 {:.tabella }
 | Conservazione | In pericolo |
-| Luogo         | Rilivi dal Nepal al Myanmar e Cina Occidentale. |
+| Luogo         | Rilievi dal Nepal al Myanmar e Cina Occidentale. |
 
 
 ![Il panda rosso]({{ site.url }}/assets/pandarosso/1.jpg)

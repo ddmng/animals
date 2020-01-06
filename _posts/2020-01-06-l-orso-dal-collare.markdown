@@ -25,4 +25,4 @@ Riepilogo
 | Luogo         | Foreste pluviali, foreste monsoniche, habitat aperti e rilievi del Afghanistan,Pakistan, Cina, Corea e Giappone |
 
 
-![L'orso dal collare]({{ site.url }}/assets/orsodalcollare/1.png)
+![L'orso dal collare]({{ site.url }}/assets/orsodalcollare/1.jpg)
