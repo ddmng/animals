@@ -13,7 +13,7 @@ tags: ULTIMO URSIDE!
  Il pelo è molto lungo e fa da isolante contro il caldo.
  Il suo corpo misura 1,8 metri e la sua coda solo 12 centimetri.
  Può pesare fino a 145 chilogrammi.
- Purtroppo è ulnerabile.
+ Purtroppo è vulnerabile.
  Vive nelle foreste monsoniche tropicali dello Sri Lanka, India e Nepal.
 
 
